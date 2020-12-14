@@ -1,0 +1,51 @@
+@media screen and (min-width:480px) {
+    body{
+        background-color: black;
+        color: white;
+    }
+
+}
+@media screen and (min-width:760px) {
+    body{
+        background-color:whitesmoke;
+        color: black;
+    }
+
+    
+
+}
+.navagation{
+    float: right;
+    margin-right: 520px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+.current1{
+    background-color: #3E0D4A;
+    border-radius: 5px;
+    color: #FAE10A;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.current{
+    background-color: #6C3483;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 16px;
+}
+.home{
+   
+}
+
+body{
+    background-image: url('../images/image1.jpg');
+}
